@@ -1,4 +1,4 @@
-# Photo Gallery
+# art or NOT
 
 Grid-based photo gallery with lightbox using Vue.
 
